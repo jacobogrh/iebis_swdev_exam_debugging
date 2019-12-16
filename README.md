@@ -1,3 +1,8 @@
+I was not capable of finding any bugs
+
+
+
+
 # iebis_swdev_exam_debugging
 Somebody from administration wanted to create a random phrase generators and created the code that you can find in Main.java for this purpose.
 
